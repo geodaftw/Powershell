@@ -1,6 +1,9 @@
 # Powershell
 Helpful powershell scripts
 
+## AD-Enumeration
+A script that's been helpful in quickly identifying user, computer and AD group information
+
 ## loginQuery
 A script that utilizes "reg query" to remotely check if/who is logged into a remote computer
 
